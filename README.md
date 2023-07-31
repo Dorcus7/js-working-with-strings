@@ -14,8 +14,8 @@
     - For example:
     - `let firstName = "Annie"`
     - `let lastName = "Cannons"`
-    - `let welcomeSentence = "hello " + firstName + " " + lastName + "!";` 
-    - `// “hello Annie Cannons!”`
+    - `let fullName = "firstName + " " + lastName;` 
+    - `// “Annie Cannons”`
 
 ### Prep
     1. Connect your js file to your HTML file
@@ -44,4 +44,8 @@
     1. Follow the instructions in the `scripts.js` file for formatting and testing a password.
 
 ### Exerise 5
+    - Combining strings is an important tool for working with data. There are two main ways to combine strings. 
+    1. Follow the instructions in the `scripts.js` file for concetenating strings.
+
+### Exerise 6
     1. Go to MDN and research two other string methods. Be prepared to share the methods with the class and to show a code example of each to the class. 
